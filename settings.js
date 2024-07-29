@@ -15,7 +15,7 @@ global.socialm = ""
 global.location = "Zimbabwe, Kwekwe, Newtown"
 
 global.ownernumber = '263714757857'  //creator number
-global.ownername = 'Malvin//owner name'
+global.ownername = 'Malvin' //owner name
 global.botname = 'Malvin-bug-bot' //name of the bot
 
 //sticker details
