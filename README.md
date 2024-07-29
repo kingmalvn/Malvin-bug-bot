@@ -66,6 +66,9 @@ pkg install wget
 pkg install imagemagick -y
 ```
 ```
+pkg install yarn
+```
+```
 git clone https://github.com/kingmalvn/Malvin-bug-bot
 ```
 ```
