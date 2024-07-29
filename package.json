@@ -1,5 +1,5 @@
 {
-    "name": "xBug Bot",
+    "name": "xBug-Bot",
     "version": "4.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
