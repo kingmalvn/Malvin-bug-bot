@@ -69,7 +69,7 @@ pkg install imagemagick -y
 git clone https://github.com/kingmalvn/Malvin-bug-bot
 ```
 ```
-cd Phantom-bug-bot
+cd Malvin-bug-bot
 ```
 ```
 yarn install
